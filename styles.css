@@ -1,0 +1,25 @@
+/* Candle Label Widget CSS */
+
+.form-group {
+  margin: 1rem 0;
+}
+
+label {
+  display: block;
+  margin-bottom: 0.5rem;
+}
+
+input[type="text"] {
+  width: 100%;
+  padding: 0.5rem;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  font-size: 1rem;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin-top: 1rem;
+}
